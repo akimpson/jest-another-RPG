@@ -8,4 +8,3 @@ test('creates a health potion object', () => {
     expect(potion.value).toEqual(expect.any(Number));
   
 });
-  
